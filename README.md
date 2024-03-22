@@ -1,1 +1,1 @@
-# CoreyRutt
+<h2 align="center"><img src="./images/waving-hand.gif" width="28"> Hey, it's me Corey J. Rutt!</h2>
